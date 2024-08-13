@@ -1,0 +1,1 @@
+getgenv().LS="禁漫中心" loadstring(game:HttpGet("https://raw.githubusercontent.com/dingding123hhh/hun/main/45859625896%E6%89%B6%E5%A5%B9%E9%9F%A9%E5%89%A7%E7%BB%99%E4%BD%A0%E7%9C%8B.lua"))()
